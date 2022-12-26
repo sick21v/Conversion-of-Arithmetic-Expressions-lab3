@@ -1,0 +1,24 @@
+﻿cl : командная строка warning D9035: использование параметра "Gm" нежелательно, он будет удален в следующих выпусках
+  arithmetic.cpp
+C:\Users\User\source\repos\mp2-lab3-arithmetic-master\include\stack.h(39): warning C5037: "Stack<T>::Stack": внешнее определение члена шаблона класса не может иметь аргументы по умолчанию
+C:\Users\User\source\repos\mp2-lab3-arithmetic-master\src\arithmetic.cpp(34,13): warning C4805: ==: небезопасное смешение типа "size_t" и типа "bool" в операции
+C:\Users\User\source\repos\mp2-lab3-arithmetic-master\src\arithmetic.cpp(429,16): warning C4101: error: неиспользованная локальная переменная
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\utility(193,54): warning C4244: инициализация: преобразование "double" в "_Ty2", возможна потеря данных
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\User\source\repos\mp2-lab3-arithmetic-master\src\arithmetic.cpp(355): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::pair<const std::string,int>::pair<std::string,double&,0>(_Other1 &&,_Other2) noexcept"
+          with
+          [
+              _Other1=std::string,
+              _Other2=double &
+          ]
+C:\Users\User\source\repos\mp2-lab3-arithmetic-master\src\arithmetic.cpp(355): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::pair<const std::string,int>::pair<std::string,double&,0>(_Other1 &&,_Other2) noexcept"
+          with
+          [
+              _Other1=std::string,
+              _Other2=double &
+          ]
+C:\Users\User\source\repos\mp2-lab3-arithmetic-master\src\arithmetic.cpp(94): warning C4715: Term::getPriorityOperation: значение возвращается не при всех путях выполнения
+  arithmetic.vcxproj -> C:\Users\User\source\repos\mp2-lab3-arithmetic-master\sln\vc10\Debug\arithmetic.lib
