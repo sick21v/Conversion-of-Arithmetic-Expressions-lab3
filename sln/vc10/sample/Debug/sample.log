@@ -1,0 +1,4 @@
+﻿cl : командная строка warning D9035: использование параметра "Gm" нежелательно, он будет удален в следующих выпусках
+  main_arithmetic.cpp
+C:\Users\User\source\repos\mp2-lab3-arithmetic-master\include\stack.h(39): warning C5037: "Stack<T>::Stack": внешнее определение члена шаблона класса не может иметь аргументы по умолчанию
+  sample.vcxproj -> C:\Users\User\source\repos\mp2-lab3-arithmetic-master\sln\vc10\Debug\sample.exe
